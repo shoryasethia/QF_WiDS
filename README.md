@@ -6,3 +6,7 @@
 - [Project](https://github.com/shoryasethia/QF_WiDS/tree/main/Project)
 - For MLP1, I followed [this](https://github.com/ycm/cs230-proj/tree/master/mlp1) repo
 - Project [Report](https://github.com/shoryasethia/QF_WiDS/blob/main/Project/QuantitativeFinanceReport.pdf) 
+### To clone run
+```
+git clone https://github.com/shoryasethia/QF_WiDS
+```
